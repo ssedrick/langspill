@@ -3,5 +3,10 @@
 }
 
 .nav {
-  margin: 4px;
+  margin: 16px;
 }
+
+.nav > a {
+  padding: 16px;
+}
+
